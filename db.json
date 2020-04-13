@@ -1,0 +1,17 @@
+{
+  "Studentdetails": [
+    {
+      "id":1,
+      "username": "akhi",
+      "password": "akhi",
+      "role": "student"
+    },
+
+      {
+      "id":2,
+      "username": "Akhil",
+      "password": "reddy",
+      "role": "admin"
+    }
+  ]
+}
